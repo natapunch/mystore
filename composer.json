@@ -1,0 +1,22 @@
+{
+    "name": "punchenko/mystore",
+    "description": "application",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "natapunch",
+            "email": "natapunch7@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "punchenko/framework": "dev-dev"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/natapunch/framework.git"
+        }
+    ]
+}
+

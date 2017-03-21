@@ -1,0 +1,57 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "7f0da780dab48b4ff54f200fb51c788a",
+    "content-hash": "57164705220473a79f49380394c791fe",
+    "packages": [
+        {
+            "name": "punchenko/framework",
+            "version": "dev-dev",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/natapunch/framework.git",
+                "reference": "41cefde4018dce5aeb3c23457c13c2404e61da45"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/natapunch/framework/zipball/41cefde4018dce5aeb3c23457c13c2404e61da45",
+                "reference": "41cefde4018dce5aeb3c23457c13c2404e61da45",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Punchenko\\Framework\\": "src/"
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "natapunch",
+                    "email": "natapunch7@gmail.com"
+                }
+            ],
+            "description": "Sample Framework",
+            "support": {
+                "source": "https://github.com/natapunch/framework/tree/dev",
+                "issues": "https://github.com/natapunch/framework/issues"
+            },
+            "time": "2017-03-21 23:24:13"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "punchenko/framework": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
